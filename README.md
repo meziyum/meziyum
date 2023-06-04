@@ -1,8 +1,8 @@
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
 <div>
-<img align="left" width="55%"src="https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true"/>
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
+<img align="left" width="50%"src="https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
