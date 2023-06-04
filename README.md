@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td>![Meziyum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true)</td>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact)</td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true"/></td>
+    <td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/></td>
   </tr>
 </table>
 
