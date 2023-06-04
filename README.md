@@ -2,7 +2,7 @@
 
 <div>
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true"/>
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
