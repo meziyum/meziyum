@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
