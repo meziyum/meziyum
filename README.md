@@ -1,6 +1,7 @@
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true"/>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meziyum&rank_icon=github&show_icons=true"/></a>
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=meziyum&layout=compact"/>
 
 <h3 align="left">Languages and Tools:</h3>
